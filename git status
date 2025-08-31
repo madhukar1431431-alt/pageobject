@@ -1,0 +1,114 @@
+[33mcommit 77e346fc6d653213c02f567fa9075c9f559fdb15[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 2f1c205 370d679
+Author: Naveen AutomationLabs <naveenanimation20@gmail.com>
+Date:   Mon Aug 16 14:15:50 2021 +0530
+
+    Merge pull request #34 from Vatsald2809/patch-1
+    
+    Update pom.xml
+
+[33mcommit 370d67907adb61e9abbc20d82b1131c625a73201[m
+Author: Vatsald2809 <86254487+Vatsald2809@users.noreply.github.com>
+Date:   Thu Aug 12 09:48:17 2021 -0400
+
+    Update pom.xml
+    
+    deleting duplicate dependencies from POM
+
+[33mcommit 2f1c205e08cb779ef291470f0312987e3d7d8357[m
+Merge: 2053d5c 064a113
+Author: Naveen AutomationLabs <naveenanimation20@gmail.com>
+Date:   Thu Dec 27 20:59:10 2018 +0530
+
+    Merge pull request #6 from MahadevG/patch-1
+    
+    Create README.md
+
+[33mcommit 2053d5c43a92db333065fea6f2d74d671a01865d[m
+Merge: 62ae9dc b3af8a4
+Author: Naveen AutomationLabs <naveenanimation20@gmail.com>
+Date:   Thu Dec 27 20:58:29 2018 +0530
+
+    Merge pull request #7 from sandybegn/master
+    
+    Create .gitattributes
+
+[33mcommit b3af8a478e11abb19e84e3a1a0240ca36c456bc6[m
+Author: Sandeep <36359269+sandybegn@users.noreply.github.com>
+Date:   Sat Dec 1 00:40:30 2018 +0800
+
+    Create .gitattributes
+
+[33mcommit 064a113e887039887825b1410885c8b681cac951[m
+Author: Mahadev Gouda <33411567+MahadevG@users.noreply.github.com>
+Date:   Fri Oct 5 11:56:46 2018 +0530
+
+    Create README.md
+    
+    To know more about this framework. By this users will get to know what dependencies they are using and how this framework works.
+
+[33mcommit 62ae9dcd1057d10b45a2bd9520fa4f89cdfba1ed[m
+Merge: 1e942ba 75f76b4
+Author: Naveen Khunteta <NaveenKhunteta@Administrators-MacBook-Pro-9.local>
+Date:   Fri Sep 28 13:22:45 2018 +0530
+
+    Merge branch 'master' of https://github.com/naveenanimation20/PageObjectModel
+
+[33mcommit 1e942ba613010a871f792789e52253c2f4b65074[m
+Author: Naveen Khunteta <NaveenKhunteta@Administrators-MacBook-Pro-9.local>
+Date:   Fri Sep 28 13:21:36 2018 +0530
+
+    updated selenium dependencies
+
+[33mcommit 75f76b42f4249f4f223a0a4eecd0999ee3ecf979[m
+Merge: 85462bf 99486a8
+Author: Naveen AutomationLabs <naveenanimation20@gmail.com>
+Date:   Mon Jul 23 12:35:01 2018 +0530
+
+    Merge pull request #4 from Munna-k/patch-3
+    
+    Update pom.xml
+
+[33mcommit 99486a8b60b57b4f6e136f14520a48e2bc8a24cf[m
+Author: Munna-k <40426953+Munna-k@users.noreply.github.com>
+Date:   Mon Jul 23 11:58:41 2018 +0530
+
+    Update pom.xml
+    
+    java version change
+
+[33mcommit 85462bf923f3d486389185f9b589b9995a953cd1[m
+Author: Naveen Khunteta <NaveenKhunteta@surfer-172-29-0-53-hotspot.internet-for-guests.com>
+Date:   Tue Oct 24 21:40:52 2017 +0200
+
+    added minor chnages
+
+[33mcommit 85b5f273ca6f1ecc39fc875ecefd7066a7c87c9c[m
+Author: Naveen AutomationLabs <naveenanimation20@gmail.com>
+Date:   Tue Oct 24 15:44:26 2017 +0200
+
+    Update TestBase.java
+
+[33mcommit 67bd386827e8923d6e10af6676ada03050bb5f26[m
+Author: Naveen Khunteta <naveenkhunteta@Naveens-MacBook-Air.local>
+Date:   Sat Oct 14 01:19:58 2017 +0530
+
+    added code base of POM - Part -5
+
+[33mcommit d8e69b6e5b1c69fd43d3400f120e46e7999bcc0b[m
+Author: Naveen Khunteta <naveenkhunteta@Naveens-MacBook-Air.local>
+Date:   Fri Oct 6 12:08:47 2017 +0530
+
+    added code base for part-4 : data driven, fire events
+
+[33mcommit eb050313ecce7d140970c017bad55aca2fc2f458[m
+Author: Naveen Khunteta <naveenkhunteta@Naveens-MacBook-Air.local>
+Date:   Fri Sep 29 03:14:12 2017 +0530
+
+    added page lib for home page contacts page and test cases
+
+[33mcommit 5df400be23dcd796e3112fd4992c4d9aadb12fcb[m
+Author: Naveen Khunteta <naveenkhunteta@Naveens-MacBook-Air.local>
+Date:   Mon Sep 25 00:45:44 2017 +0530
+
+    added framework folders and library
